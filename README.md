@@ -3,7 +3,7 @@
   <img
     src="https://render.gitanimals.org/lines/quvvxx"
     width="700"
-    height="250"
+    height="200"
   />
 </a>
 </div>
