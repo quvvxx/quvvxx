@@ -3,7 +3,7 @@
 <img
   src="https://render.gitanimals.org/farms/quvvxx"
   width="600"
-  height="300"
+  height="200"
 />
 </a>
 </div>
