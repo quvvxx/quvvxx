@@ -1,9 +1,9 @@
-<div align="center">
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=quvvxx&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/quvvxx?v=6"
-  width="600"
-  height="300"
-/>
-</a>
-</div>
+<p align="center">
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=quvvxx&utm_content=line">
+    <img
+      src="https://render.gitanimals.org/lines/quvvxx?pet-id=895092857801205299"
+      width="640"
+      height="170"
+    />
+  </a>
+</p>
